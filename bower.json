@@ -24,6 +24,9 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "spec",
+    "karma*",
+    "package.json"
   ]
 }
