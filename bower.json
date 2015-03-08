@@ -1,0 +1,29 @@
+{
+  "name": "enum.js",
+  "main": ["enum.js", "enum.min.js"],
+  "version": "0.1.0",
+  "description": "Tiny vanilla JS library for creating enumerations",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "enum",
+    "js",
+    "enumeration",
+    "enums"
+  ],
+  "authors": [
+    "Jairo Santos <jairosantos08@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jairovsky/enum.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "enum.js",
+  "version": "0.1.0",
+  "description": "Tiny vanilla JS library for creating enumerations",
+  "main": "enum.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.5",
+    "karma-requirejs": "^0.2.2",
+    "requirejs": "^2.1.16"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "enum",
+    "js",
+    "enumeration",
+    "enums"
+  ],
+  "author": "Jairo Santos <jairosantos08@gmail.com>",
+  "license": "MIT"
+}
