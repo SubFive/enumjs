@@ -1,5 +1,5 @@
 {
-  "name": "enum.js",
+  "name": "enumjs",
   "main": ["enum.js", "enum.min.js"],
   "version": "0.1.0",
   "description": "Tiny vanilla JS library for creating enumerations",

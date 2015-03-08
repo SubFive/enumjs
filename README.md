@@ -5,7 +5,13 @@
 ## Installation
 Recommended way to install is via Bower:
 
-```bower install --save jairovsky/enum.js```
+```bower install --save enumjs```
+
+or via NPM:
+
+```bower install --save enum.js```
+
+Note that package names are different for Bower and NPM.
 
 If you aren't using Bower, just download it as zip.
 
